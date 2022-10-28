@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="955893cb-1835-46cc-b108-42c3c95f0c91" name="Changes" comment="java: changed project name" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="java-algoritmos-basicos" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2GdB0TRZ3xgD9QJ9sMjJVBzAGL9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Ex5_BuscaSequencial">
+    <configuration name="Ex1_NumerosIguais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="desafio.exercises.Ex1_NumerosIguais" />
+      <module name="java-potencia-tech" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="desafio.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex2_SomandoMultiplos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="desafio.exercises.Ex2_SomandoMultiplos" />
+      <module name="java-potencia-tech" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="desafio.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex3_ChamadaRecursiva" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="desafio.exercises.Ex3_ChamadaRecursiva" />
+      <module name="java-potencia-tech" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="desafio.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex4_FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="desafio.exercises.Ex4_FizzBuzz" />
+      <module name="java-potencia-tech" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="desafio.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex5_BuscaSequencial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="desafio.exercises.Ex5_BuscaSequencial" />
+      <module name="java-potencia-tech" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="desafio.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ex5_BuscaSequencial" />
+        <item itemvalue="Application.Ex4_FizzBuzz" />
+        <item itemvalue="Application.Ex3_ChamadaRecursiva" />
+        <item itemvalue="Application.Ex2_SomandoMultiplos" />
+        <item itemvalue="Application.Ex1_NumerosIguais" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="955893cb-1835-46cc-b108-42c3c95f0c91" name="Changes" comment="" />
+      <created>1666708357547</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666708357547</updated>
+      <workItem from="1666708358812" duration="17052000" />
+      <workItem from="1666789930158" duration="12308000" />
+      <workItem from="1666871877755" duration="18590000" />
+      <workItem from="1666959663653" duration="249000" />
+    </task>
+    <task id="LOCAL-00001" summary="java: loop exercises">
+      <created>1666723245194</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666723245194</updated>
+    </task>
+    <task id="LOCAL-00002" summary="java: arrays exercises">
+      <created>1666740091639</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666740091639</updated>
+    </task>
+    <task id="LOCAL-00003" summary="java: desafio_abstracao_encapsulamento">
+      <created>1666813404698</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666813404698</updated>
+    </task>
+    <task id="LOCAL-00004" summary="java: desafio_heranca_polimorfismo">
+      <created>1666876282232</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666876282233</updated>
+    </task>
+    <task id="LOCAL-00005" summary="java: desafio_classes_de_dominio">
+      <created>1666877932238</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666877932238</updated>
+    </task>
+    <task id="LOCAL-00006" summary="java: desafio_algoritmos_basicos">
+      <created>1666898981470</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666898981470</updated>
+    </task>
+    <task id="LOCAL-00007" summary="java: changed project name">
+      <created>1666959888561</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666959888561</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="java: loop exercises" />
+    <MESSAGE value="java: arrays exercises" />
+    <MESSAGE value="java: desafio-abstracao-encapsulamento" />
+    <MESSAGE value="java: desafio_abstracao_encapsulamento" />
+    <MESSAGE value="java: desafio_heranca_polimorfismo" />
+    <MESSAGE value="java: desafio_classes_de_dominio" />
+    <MESSAGE value="java: desafio_algoritmos_basicos" />
+    <MESSAGE value="java: changed project name" />
+    <option name="LAST_COMMIT_MESSAGE" value="java: changed project name" />
+  </component>
+</project>
